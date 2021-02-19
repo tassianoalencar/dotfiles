@@ -1,0 +1,17 @@
+# Composer
+picom &
+
+# Network
+nm-applet &
+
+# Keyboard Layout
+setxkbmap br &
+
+# Automount Devices
+udiskie -t &
+
+# Java Fonts
+xsettingsd &
+
+# Wallpaper
+nitrogen --restore &
