@@ -1,0 +1,25 @@
+; Colors
+include-file = /home/tassiano/.config/polybar/configs/colors
+
+; Fonts
+include-file = /home/tassiano/.config/polybar/configs/fonts
+
+; Modules
+include-file = /home/tassiano/.config/polybar/modules/battery
+include-file = /home/tassiano/.config/polybar/modules/i3
+include-file = /home/tassiano/.config/polybar/modules/pulseaudio
+include-file = /home/tassiano/.config/polybar/modules/date
+include-file = /home/tassiano/.config/polybar/modules/xbacklight
+include-file = /home/tassiano/.config/polybar/modules/wlan
+
+; Bars
+include-file = /home/tassiano/.config/polybar/bars/topbar
+
+[global/wm]
+; Adjust the _NET_WM_STRUT_PARTIAL top value
+;   Used for top aligned bars
+margin-bottom = 0
+
+; Adjust the _NET_WM_STRUT_PARTIAL bottom value
+;   Used for bottom aligned bars
+margin-top = 0

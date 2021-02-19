@@ -1,0 +1,9 @@
+[fonts]
+font-regular = JetBrains Mono:Regular:size=8;2
+font-semibold = JetBrains Mono:Medium:size=8;2
+font-bold = JetBrains Mono:Bold:size=8;2
+font-awesome = Font Awesome 5 Free:pixelsize=8;2
+font-awesomesolid = Font Awesome 5 Free Solid:pixelsize=8;2
+font-awesomebrands = Font Awesome 5 Brands:pixelsize=8;2
+font-siji = Siji:size=10;
+font-nerd = Symbols Nerd Font:size=10;2 

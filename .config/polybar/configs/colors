@@ -1,0 +1,18 @@
+[colors]
+background = #2D2B55
+background-dark = #1E1E3F
+foreground = #A599E9
+hover-background = #4D21FC
+contrast = #FAD000
+contrast-lite-ii = #FAEFA5
+highlight = #FF7200
+comment	= #B362FF
+constants = #FF628C
+keywords = #FF9D00
+other = #9EFFFF
+strings = #A5FF90
+templates = #3AD900 
+definitions = #FB94FF
+invalid = #EC3A37F5
+diff-added = #00FF009A
+diff-removed = #FF000D81
