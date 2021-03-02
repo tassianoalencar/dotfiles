@@ -9,7 +9,7 @@ time = %H:%M
 time-alt = %H:%M:%S
 
 format-prefix = 
-format-prefix-foreground = ${colors.foreground}
-;format-underline = ${colors.contrast}
+format-prefix-foreground = $dracula.foreground}
+;format-underline = $dracula.contrast}
 
 label = %date% %time%

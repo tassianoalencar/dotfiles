@@ -11,6 +11,8 @@ include-file = /home/tassiano/.config/polybar/modules/pulseaudio
 include-file = /home/tassiano/.config/polybar/modules/date
 include-file = /home/tassiano/.config/polybar/modules/xbacklight
 include-file = /home/tassiano/.config/polybar/modules/wlan
+include-file = /home/tassiano/.config/polybar/modules/info-kernel
+include-file = /home/tassiano/.config/polybar/modules/player-moc
 
 ; Bars
 include-file = /home/tassiano/.config/polybar/bars/topbar

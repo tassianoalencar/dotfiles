@@ -1,18 +1,31 @@
 [colors]
-background = #2D2B55
-background-dark = #1E1E3F
-foreground = #A599E9
+background       = #2D2B55
+background-dark  = #1E1E3F
+foreground       = #A599E9
 hover-background = #4D21FC
-contrast = #FAD000
+contrast         = #FAD000
 contrast-lite-ii = #FAEFA5
-highlight = #FF7200
-comment	= #B362FF
-constants = #FF628C
-keywords = #FF9D00
-other = #9EFFFF
-strings = #A5FF90
-templates = #3AD900 
-definitions = #FB94FF
-invalid = #EC3A37F5
-diff-added = #00FF009A
-diff-removed = #FF000D81
+highlight        = #FF7200
+comment          = #B362FF
+constants        = #FF628C
+keywords         = #FF9D00
+other            = #9EFFFF
+strings          = #A5FF90
+templates        = #3AD900 
+definitions      = #FB94FF
+invalid          = #EC3A37F5
+diff-added       = #00FF009A
+diff-removed     = #FF000D81
+
+[dracula]
+background       = #22212C
+foreground       = #F8F8F2
+comment          = #7970A9
+selection        = #454158
+cyan             = #80FFEA
+green            = #8AFF80
+orange           = #FFCA80
+pink             = #FF80BF
+purple           = #9580FF
+red              = #FF9580
+yellow           = #FFFF80

@@ -42,7 +42,7 @@ URxvt.underlineURLs: true
 URxvt.urlButton: 1
 
 ! Cursor
-URxvt.cursorColor: #FDA000
+URxvt.cursorColor: #FF80BF
 URxvt.cursorUnderline: false
 
 ! Pointer
@@ -51,47 +51,47 @@ URxvt.pointerBlank: true
 !! COLORS
 
 ! special
-URxvt*foreground:   #A599E9
-URxvt*background:   #1E1E3F
-URxvt*cursorColor:  #FAD000
+URxvt*foreground:   #F8F8F2
+URxvt*background:   #22212C
+URxvt*cursorColor:  #FF80BF
 
-XTerm*foreground: #A599E9
-XTerm*background: #1E1E3F
-XTerm*cursorColor: #FAD000
+XTerm*foreground:  #F8F8F2
+XTerm*background:  #22212C
+XTerm*cursorColor: #FF80BF
 
-! special
-*.foreground:   #a599e9
-*.background:   #1e1e3f
+! Dracula Xresources palette
+*.foreground: #F8F8F2
+*.background: #282A36
 *.cursorColor:  #FAD000
 
 ! black
-*.color0:       #2d2b55
-*.color8:       #fad000
+*.color0:     #000000
+*.color8:     #4D4D4D
 
 ! red
-*.color1:       #a54242
-*.color9:       #cc6666
+*.color1:     #FF5555
+*.color9:     #FF6E67
 
 ! green
-*.color2:       #8c9440
-*.color10:      #a5ff90
+*.color2:     #50FA7B
+*.color10:    #5AF78E
 
 ! yellow
-*.color3:       #ff9d00
-*.color11:      #f0c674
+*.color3:     #F1FA8C
+*.color11:    #F4F99D
 
 ! blue
-*.color4:       #5f819d
-*.color12:      #81a2be
+*.color4:     #BD93F9
+*.color12:    #CAA9FA
 
 ! magenta
-*.color5:       #85678f
-*.color13:      #b294bb
+*.color5:     #FF79C6
+*.color13:    #FF92D0
 
 ! cyan
-*.color6:       #5e8d87
-*.color14:      #ff9d00
+*.color6:     #8BE9FD
+*.color14:    #9AEDFE
 
 ! white
-*.color7:       #707880
-*.color15:      #9effff
+*.color7:     #BFBFBF
+*.color15:    #E6E6E6

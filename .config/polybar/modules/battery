@@ -11,18 +11,18 @@ format-discharging = <animation-discharging> <label-discharging>
 ;format-discharging-underline = ${self.format-charging-underline}
 
 format-full-prefix = " "
-format-full-prefix-foreground = ${colors.foreground}
+format-full-prefix-foreground = ${dracula.foreground}
 ;format-full-underline = ${self.format-charging-underline}
 
 ramp-capacity-0 = 
 ramp-capacity-1 = 
 ramp-capacity-2 = 
-ramp-capacity-foreground = ${colors.foreground}
+ramp-capacity-foreground = ${dracula.foreground}
 
 animation-charging-0 = 
-animation-charging-foreground = ${colors.foreground}
+animation-charging-foreground = ${dracula.foreground}
 animation-charging-framerate = 750
 
 animation-discharging-0 = 
-animation-discharging-foreground = ${colors.foreground}
+animation-discharging-foreground = ${dracula.foreground}
 animation-discharging-framerate = 750

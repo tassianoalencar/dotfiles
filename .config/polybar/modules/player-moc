@@ -1,0 +1,8 @@
+[module/player-moc]
+type = custom/script
+exec = /home/tassiano/.polybar-scripts/polybar-scripts/player-moc/player-moc.sh
+interval = 3
+format-prefix = " "
+click-left = mocp -f &
+click-right = mocp -r &
+click-middle = mocp -G &

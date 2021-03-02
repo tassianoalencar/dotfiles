@@ -5,12 +5,12 @@ format = <label> <bar>
 label = BL
 
 bar-width = 10
-bar-indicator = |
-bar-indicator-foreground = #fff
+bar-indicator = ⭘ 
+bar-indicator-foreground = ${dracula.green}
 bar-indicator-font = 2
 bar-fill = ─
 bar-fill-font = 2
-bar-fill-foreground = #9f78e1
+bar-fill-foreground = ${dracula.yellow}
 bar-empty = ─
 bar-empty-font = 2
-bar-empty-foreground = ${colors.foreground}
+bar-empty-foreground = ${dracula.foreground}

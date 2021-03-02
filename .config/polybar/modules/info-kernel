@@ -1,0 +1,5 @@
+[module/info-kernel]
+type = custom/script
+exec = uname -r
+format-prefix = " "
+interval = 1024
