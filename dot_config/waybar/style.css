@@ -1,0 +1,60 @@
+* {
+    font-family: Berkeley Mono, FontAwesome, Roboto, Helvetica, Arial, sans-serif;
+    font-size: 13px;
+}
+
+window#waybar {
+  background-color: rgba(255,255,255,0.5);
+  border-radius: 5px;
+  transition-property: all;
+  transition-duration: 5s;
+}
+
+button {
+  box-shadow: inset 0 -3px transparent;
+  border: none;
+  border-radius: 2px;
+}
+
+#workspaces button.active {
+  background-color: #ffffff;
+  color: #2e7de9;
+}
+
+#workspaces button.active:first-child {
+  border-radius: 5px 2px 2px 5px;
+}
+
+#cpu,
+#memory,
+#backlight,
+#battery,
+#clock,
+#power-profiles-daemon,
+#network,
+#pulseaudio
+{
+  padding: 0 5px;
+}
+
+/*#power-profiles-daemon.performance {*/
+/*  color: blue;*/
+/*}*/
+/*#power-profiles-daemon.balanced {*/
+/*  color: orange;*/
+/*}*/
+/*#power-profiles-daemon.power-saver {*/
+/*  color: green;*/
+/*}*/
+
+#custom-power {
+  padding: 0 10px;
+  margin-left: 5px;
+}
+
+#custom-power:hover {
+  background-color: #ffffff;
+  color: #2e7de9;
+  border-radius: 0 5px 5px 0;
+}
+
