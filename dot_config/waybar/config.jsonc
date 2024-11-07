@@ -118,8 +118,7 @@
       "headset": "",
       "phone": "",
       "portable": "",
-      "car": "",
-      "default": ["", ""]
+      "car": ""
     },
     "on-click": "pavucontrol"
   },
